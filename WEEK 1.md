@@ -20,13 +20,17 @@ I spent 9 hours on this practical.
 
 -During the design process, I was unable to merge images and text to look good, which is why I took a long time here. Subsequently, changes and improvements were made to the online search materials.
 
-- The CSS style did not apply as expected, possibly due to priority issues with selectors. Therefore, it is necessary to have a better understanding of selector priority rules and ensure that design style rules work as expected.
+-The CSS style did not apply as expected, possibly due to priority issues with selectors. Therefore, it is necessary to have a better understanding of selector priority rules and ensure that design style rules work as expected.
 
 
 #### Career/Employability/Learning Insights
 
 -Before creating the website, due to referencing the layout of large website pages, a rough idea was developed before production.
+
 -Due to the trivial nature of website design, it is important to maintain good coding habits as there are many details to pay attention to.
+
 -Due to the lack of rigorous thinking, many mistakes have been made. Therefore, I realized that having a strong design mindset will make me more proficient in web design and also a direction for effort.
+
 -As the backend development of web design, we should focus on user needs and design with a bias towards requirements.
+
 -Learning and practice should be carried out simultaneously. Simply watching video tutorials without hands-on production leads to low learning efficiency and no improvement in proficiency.
