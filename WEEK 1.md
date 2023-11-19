@@ -15,8 +15,11 @@ I spent 9 hours on this practical.
 #### Content Insights
 
 -Due to HTML and CSS being the foundation of such subjects, I am placing more emphasis on laying the groundwork for them this time. Therefore, I did not choose a template for application, but wrote my own code.
+
 -Writing smooth web pages is a test of integrity, and this exercise focuses more on computer version design. When writing code, techniques such as floating, banners, and selecting and adjusting specific element styles based on the position of elements in their parent container have been added to the webpage for its aesthetic appeal.
+
 -During the design process, I was unable to merge images and text to look good, which is why I took a long time here. Subsequently, changes and improvements were made to the online search materials.
+
 - The CSS style did not apply as expected, possibly due to priority issues with selectors. Therefore, it is necessary to have a better understanding of selector priority rules and ensure that design style rules work as expected.
 
 
