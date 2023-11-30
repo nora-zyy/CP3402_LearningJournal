@@ -36,7 +36,6 @@ I started this on November 26th, and generally divided the process into two majo
 
 Since I was not familiar with Joomla at the beginning, I wasted a little bit of time in the process of practicing. But overall, the practice was interesting.
 
-
 #### Content Insights
 In the second week's project, I made a bakery targeting young people, and unlike the first week's project which used html, this time I had to learn Joomla from scratch. This time, the main design is to show the new products in the home page, as well as a more convenient holiday gift box, which greatly meets the needs of young people, and allows customers to continue to browse the idea.
 
