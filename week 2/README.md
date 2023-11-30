@@ -32,7 +32,7 @@ For the second week's assignment, I chose to develop a design with a similar the
 
  Resources:
   - [YouTube](https://www.youtube.com/watch?v=9qfzWGpFyfY&list=PLCxCi7K8musaNBepi-Pdj9Ij9nSwfM8J1&index=5)
-  - [Bilibili]（https://www.bilibili.com/video/BV1BR4y1b7Kw/?p=20&vd_source=ab83fb13d0cbf89ccb183197fc5f3294）
+  - [Bilibili](https://www.bilibili.com/video/BV1BR4y1b7Kw/?p=20&vd_source=ab83fb13d0cbf89ccb183197fc5f3294）
 
 ### Estimated Hours 
 I started this on November 26th, and generally divided the process into two major modules. First of all, through YouTobe and Bilibili website related videos to study, learn the Joomla interface and tools to use. This process took about a day. Secondly, I started to conceptualize and improve the page, which took a day and a half.
