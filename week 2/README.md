@@ -1,7 +1,4 @@
 # Learning Journey Practice Week 2
-Yingying Zhang
-14205477
-
 ## Content Overview
 ### Explanation about my entrepreneurship and S.M.A.R.T goals
 #### Website Description
@@ -14,15 +11,15 @@ From the first week, I designed the site to be sold in a variety of bread and ca
 In addition to this, during the web design process, use more page designs that are popular and liked by young people to ensure favoritism.
 
 #### S.M.A.R.T goals of the webside
-Specific: This allows young people to quickly learn about the store's new active products and special offers by browsing through a clear and unambiguous page.
+- Specific: This allows young people to quickly learn about the store's new active products and special offers by browsing through a clear and unambiguous page.
 
-Measurable: Popularity is determined by high bookings, user feedback results.
+- Measurable: Popularity is determined by high bookings, user feedback results.
 
-Achievable: Since young people are looking for a more efficient and interesting life, it is important to make the website design interesting as well as the new products clear and unambiguous.
+- Achievable: Since young people are looking for a more efficient and interesting life, it is important to make the website design interesting as well as the new products clear and unambiguous.
 
-Relevant: Ensure that young people are going to like it and pay more attention to the category as well as quality control.
+- Relevant: Ensure that young people are going to like it and pay more attention to the category as well as quality control.
 
-Time-bound: Ensure that young people will like it and keep it for a certain period of time and then return to the customer to determine the taste.
+- Time-bound: Ensure that young people will like it and keep it for a certain period of time and then return to the customer to determine the taste.
 
 With a clear understanding of the target user and the purpose of the design, Joomla was used to create the design.
 
