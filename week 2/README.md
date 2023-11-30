@@ -38,13 +38,13 @@ I started this on November 26th, and generally divided the process into two majo
 
 Since I was not familiar with Joomla at the beginning, I wasted a little bit of time in the process of practicing. But overall, the practice was interesting.
 
-#### Content Insights
+### Content Insights
 In the second week's project, I made a bakery targeting young people, and unlike the first week's project which used html, this time I had to learn Joomla from scratch. This time, the main design is to show the new products in the home page, as well as a more convenient holiday gift box, which greatly meets the needs of young people, and allows customers to continue to browse the idea.
 
 The software was created to understand the lifestyle of young people through chatting, and then to extend the sales program that can be accepted by them. The most important task is to summarize the results and present them on the web page, which is also a technical test. It was also a big task to adjust the web page. It is important to ensure that the content, design and technology are fully integrated and harmonized.
 
 
-#### Career/Employability/Learning Insights
+### Career/Employability/Learning Insights
 **Career/Employability:** Learn how to apply Joomla and how to use this software more smoothly. In addition, I had a deeper understanding of webpage creation and page design by looking back at famous webpages before creating webpages.
 
 **Learning Insights:** Through independent study, I have learned how to acquire knowledge more effectively through the Internet, and that technology and proficiency have to be acquired together, and that a lack of practice can also lead to a decrease in the efficiency of making Joomla. In addition, it is due to independent study, so the ability to rationalize the learning and progress is also improved.
