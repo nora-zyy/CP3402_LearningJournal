@@ -1,6 +1,6 @@
 # Learning Journey Practice Week 2
 ## Content Overview
-### Explanation about my entrepreneurship and S.M.A.R.T goals
+### Explanation entrepreneurship and S.M.A.R.T goals
 #### Website Description
 From the first week, I designed the site to be sold in a variety of bread and cake stores, but there were a lot of details that were not perfected. Therefore, in the second week of designing the website, I set the target user as young people, and due to the certainty of the target, I will add the following detailing:
 - Research for young people's taste
