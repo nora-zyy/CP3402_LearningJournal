@@ -31,7 +31,7 @@ For the second week's assignment, I chose to develop a design with a similar the
 
  Resources:
   - [YouTube](https://www.youtube.com/watch?v=9qfzWGpFyfY&list=PLCxCi7K8musaNBepi-Pdj9Ij9nSwfM8J1&index=5)
-   
+  
   - [Bilibili]（https://www.bilibili.com/video/BV1BR4y1b7Kw/?p=20&vd_source=ab83fb13d0cbf89ccb183197fc5f3294）
 
 ### Estimated Hours 
