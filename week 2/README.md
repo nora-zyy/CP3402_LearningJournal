@@ -1,5 +1,6 @@
 # Learning Journey Practice Week 2
 Yingying Zhang
+14205477
 
 ## Content Overview
 ### Explanation about my entrepreneurship and S.M.A.R.T goals
