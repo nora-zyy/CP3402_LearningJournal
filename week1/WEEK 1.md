@@ -10,7 +10,7 @@
     （https://www.youtube.com/watch?v=PlpM2LJWu-s）
 
 #### Estimated Hours
-I spent 9 hours on this practical.
+I spent 9 hours on this practical. 
 
 #### Content Insights
 

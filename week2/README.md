@@ -45,6 +45,6 @@ The software was created to understand the lifestyle of young people through cha
 
 
 ### Career/Employability/Learning Insights
-**Career/Employability:** Learn how to apply Joomla and how to use this software more smoothly. In addition, I had a deeper understanding of webpage creation and page design by looking back at famous webpages before creating webpages.
+**Career/Employability:** Learn how to apply Joomla and Girdbox, then how to use this software more smoothly. In addition, I had a deeper understanding of webpage creation and page design by looking back at famous webpages before creating webpages.
 
 **Learning Insights:** Through independent study, I have learned how to acquire knowledge more effectively through the Internet, and that technology and proficiency have to be acquired together, and that a lack of practice can also lead to a decrease in the efficiency of making Joomla. In addition, it is due to independent study, so the ability to rationalize the learning and progress is also improved.
