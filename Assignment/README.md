@@ -17,12 +17,12 @@ During my exploration of WordPress, I integrated key plugins to enhance the site
 - WP Form: This plugin was crucial for capturing user input, allowing for interactive and personalized experiences for visitors.
 - WP Go Maps: I attempted to integrate "WP Go Maps" for location-based features but faced limitations due to restricted API access. This was a valuable learning experience in understanding and working within technical constraints.
 
-Learning Resources:
+#### Learning Resources:
   - [YouTube-WordPress](https://www.youtube.com/watch?v=UT3No6nswz8)
   - [YouTube-WordPress Webside Design](https://www.youtube.com/watch?v=AABmCvjd_iU) 
-Theme:
+#### Theme:
   - [Astra](https://wpastra.com/about/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme)
-Plugins:
+#### Plugins:
   - [WP Go Maps](https://wordpress.org/plugins/wp-google-maps/)
   - [WP Forms](https://wordpress.org/plugins/wpforms-lite/)
 
