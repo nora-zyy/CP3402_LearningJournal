@@ -27,7 +27,7 @@ Plugins:
   - [WP Forms](https://wordpress.org/plugins/wpforms-lite/)
 
 ### Estimated Hours 
-I started this task on December 2th, 2023 and it took me a total of an incomplete four and a half days. It started with watching videos to gain a better understanding of Joolam and watching videos to get a primer on WordPress. Secondly, there were the practical steps, which were aided by watching the videos to understand the exact steps of building a website with WorldPress, and designing and building it on my own.m
+I started this task on December 2th, 2023 and it took me a total of an incomplete four and a half days. It started with watching videos to gain a better understanding of Joolam and watching videos to get a primer on WordPress. Secondly, there were the practical steps, which were aided by watching the videos to understand the exact steps of building a website with WorldPress, and designing and building it on my own.
 
 ### Content Insights
 Transitioning to WordPress provided a unique opportunity to reevaluate the website's design and functionality. The platform's vast array of themes and plugins enabled a more creative approach, particularly in showcasing bakery products and custom gift options. This process highlighted the importance of aligning technology with user experience to meet the specific needs of a young audience.
