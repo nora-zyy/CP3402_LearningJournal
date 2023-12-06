@@ -39,4 +39,4 @@ In selecting a theme for the website, I considered several popular options like 
 ### Career/Employability/Learning Insights
 **Career/Employability:**Learning WordPress expanded my skill set in web development, particularly in CMS versatility. This experience has enhanced my understanding of web design principles and their application in creating appealing websites for specific target audiences.
 
-**Learning Insights:** The journey with WordPress emphasized the value of exploring new platforms and adapting to different web technologies. It reinforced the importance of continuous learning and staying updated with current digital trends, crucial for professional growth in web development and design.
+**Learning Insights:**The journey with WordPress emphasized the value of exploring new platforms and adapting to different web technologies. It reinforced the importance of continuous learning and staying updated with current digital trends, crucial for professional growth in web development and design.
