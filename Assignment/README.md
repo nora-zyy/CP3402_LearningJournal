@@ -25,7 +25,7 @@ Theme:
 Plugins:
   - [WP Go Maps](https://wordpress.org/plugins/wp-google-maps/)
   - [WP Forms](https://wordpress.org/plugins/wpforms-lite/)
-  
+
 ### Estimated Hours 
 I started this task on December 2th, 2023 and it took me a total of an incomplete four and a half days. It started with watching videos to gain a better understanding of Joolam and watching videos to get a primer on WordPress. Secondly, there were the practical steps, which were aided by watching the videos to understand the exact steps of building a website with WorldPress, and designing and building it on my own.m
 
