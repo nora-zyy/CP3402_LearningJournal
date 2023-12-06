@@ -1,4 +1,4 @@
-# Learning Journey Assignment_1
+# Learning Journey Assignment01
 **Name:** Yingying Zhang  
 **Student ID:** 14205477
 
@@ -9,7 +9,7 @@ After creating a bakery website targeting young audiences in Week 2 using Joomla
 - Emphasizing visual appeal through WordPress themes.
 - Refining the menu layouts for desserts and drinks.
 
-## Learning Journey for Assignment_1
+## Learning Journey for Assignment01
 ### Learning Activities & Resources
 For this assignment, I dived into WordPress, focusing on its versatility and user-friendly aspects. The learning process involved exploring various WordPress themes and plugins that align with the modern tastes of young people. Resources included WordPress tutorials and online forums.
 
