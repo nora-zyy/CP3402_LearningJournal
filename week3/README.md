@@ -43,6 +43,7 @@ In selecting a theme for the website, I considered several popular options like 
 
 ### Reflections on Group Interview Experience
 Participating in the group formation interviews was an eye-opener and offered a real-world glimpse into team-building dynamics. This exercise went beyond just assessing technical skills; it delved into understanding personalities and work ethics, which are crucial for any successful collaboration.
+
 - **Learning About Teamwork:** The interviews revealed how diverse a group can be in terms of working styles and attitudes. Some classmates preferred a structured approach, while others were more spontaneous. This variety highlighted the need for balance in a team — where different strengths can complement each other.
 - **Communication and Adaptability:** The casual nature of the interviews allowed for more relaxed conversations, giving me insights into how potential teammates communicate under less formal circumstances. It was interesting to observe the different ways people express themselves and adapt to new situations.
 - **Finding the Right Fit:** It wasn't just about finding the most skilled individuals but also about who would work well together. I realized that for a group project to succeed, members need to have a certain level of compatibility and the ability to work through conflicts constructively.
