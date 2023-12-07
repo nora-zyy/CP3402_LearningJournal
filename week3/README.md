@@ -37,9 +37,9 @@ I chose "Astra" as the theme for its sleek design and flexibility, which aligns 
 In selecting a theme for the website, I considered several popular options like 'Divi', 'OceanWP', and 'Neve'. Each of these themes offers unique features such as visual drag-and-drop builders (Divi), extensive customization options (OceanWP), and lightweight, fast-loading design (Neve). However, I ultimately chose "Astra" for its exceptional balance of speed, design flexibility, and ease of use. Astra's wide range of starter templates and compatibility with various page builders made it the most suitable choice for creating a youthful and dynamic bakery website that appeals to our target audience.
 
 ### Career/Employability/Learning Insights
-**Career/Employability:**Learning WordPress expanded my skill set in web development, particularly in CMS versatility. This experience has enhanced my understanding of web design principles and their application in creating appealing websites for specific target audiences.
+**Career/Employability:** Learning WordPress expanded my skill set in web development, particularly in CMS versatility. This experience has enhanced my understanding of web design principles and their application in creating appealing websites for specific target audiences.
 
-**Learning Insights:**The journey with WordPress emphasized the value of exploring new platforms and adapting to different web technologies. It reinforced the importance of continuous learning and staying updated with current digital trends, crucial for professional growth in web development and design.
+**Learning Insights:** The journey with WordPress emphasized the value of exploring new platforms and adapting to different web technologies. It reinforced the importance of continuous learning and staying updated with current digital trends, crucial for professional growth in web development and design.
 
 ### Reflections on Group Interview Experience
 Participating in the group formation interviews was an eye-opener and offered a real-world glimpse into team-building dynamics. This exercise went beyond just assessing technical skills; it delved into understanding personalities and work ethics, which are crucial for any successful collaboration.
