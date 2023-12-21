@@ -11,7 +11,7 @@ This week learning process included aesthetic design, UX research, and web desig
 Week 5 of practice guided me to change 7 visible customization items. Here are the changes I made to the site style.
 
 Here's an overview of the modifications I made:
-- **Light Yellow Background:**Adjusted to a light yellow background with a color code of #f9f7d3（color:#f9f7d3）. This color choice is warm and friendly, providing a comfortable visual experience while contrasting well with the main text, enhancing the attractiveness and readability of the site.
+- **Light Yellow Background:** Adjusted to a light yellow background with a color code of #f9f7d3（color:#f9f7d3）. This color choice is warm and friendly, providing a comfortable visual experience while contrasting well with the main text, enhancing the attractiveness and readability of the site.
 - **Body Text Size:** The body text has been resized to 1.5rem to improve clarity and readability and highlight key information. Larger fonts make it easier for users to read and understand the content, improving the user experience.
 - **Body Text Color:** The body text color is adjusted to grey(color: #abb8c3) to balance the page colors, provide good contrast and make the content stand out. Gray is a neutral color that enhances the conspicuousness of the text on the background, presenting a professional and modern look and improving the overall visual appeal.
 - **A Deep Blue Color:** Hyperlinks adjusted to dark blue (color: #1d457d) improves readability and consistency, making hyperlinks more visible. Clear hyperlink colors help users quickly identify clickable elements.
