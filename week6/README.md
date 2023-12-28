@@ -1,6 +1,6 @@
 # Content Explaining and Week6 Learning Journal of CMS
 
-**Student name:** Yingying Zhang
+**Student Name:** Yingying Zhang  
 **Student ID:** 14205477
 
 ## Content Explanation
