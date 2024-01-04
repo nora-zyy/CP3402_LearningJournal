@@ -1,0 +1,14 @@
+.welcome-section {
+    text-align: center;
+    padding: 30px;
+}
+
+#welcome-header {
+    font-size: 2em;
+    color: #744141;
+}
+
+.welcome-subtitle {
+    font-style: italic;
+    color: #934848;
+}
